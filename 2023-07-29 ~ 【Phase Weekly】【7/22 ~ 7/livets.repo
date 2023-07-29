@@ -1,0 +1,15 @@
+[repo]
+type="LiveTS_repo_v1"
+name="StreamTS-Phase-Connect"
+contact="livets@ca6.dev"
+enabled=1
+
+[channel]
+id="UClpOEZoIYhxIY6n5NNGaPbA"
+handle="phaseconnect"
+name="Phase Connect"
+
+[livets]
+# video ID, LiveTS file
+
+
